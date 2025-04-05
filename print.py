@@ -1,0 +1,1 @@
+print ("Turku AMK")
