@@ -1,1 +1,2 @@
-print ("Arsenal FC")
+print ("Resolved version combining both")
+
